@@ -15,3 +15,8 @@ In October 2016 we [reported that Heathrow Airport receives a noise complaint on
 * Infographic: Heathrow noise complaints
 * Interactive slider: See how proposed flightpaths with the third runway differ from current flightpaths 
 
+## Other visualisation
+
+![](https://raw.githubusercontent.com/BBC-Data-Unit/Heathrow-noise/master/heathrow%20airport%20noise%20complaints%202016.png)
+
+Rob Radburn created this visualisation using our data. We rather like it.
