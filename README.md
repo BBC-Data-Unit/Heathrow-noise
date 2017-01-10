@@ -20,3 +20,7 @@ In October 2016 we [reported that Heathrow Airport receives a noise complaint on
 ![](https://raw.githubusercontent.com/BBC-Data-Unit/Heathrow-noise/master/heathrow%20airport%20noise%20complaints%202016.png)
 
 Rob Radburn created this visualisation using our data. We rather like it.
+
+## Examples of process
+
+* [You can find an example of a scraper here](https://docs.google.com/spreadsheets/d/14jCnRgxzbdYL3nTTn5ahShALV_lNhPdpB8NxYt5gPoY/pubhtml)
